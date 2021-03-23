@@ -7,7 +7,7 @@ cls
 
 
 cd source
-start example_mp4
+start example_mp4.txt
 cls
 
 
