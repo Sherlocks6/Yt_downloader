@@ -1,7 +1,7 @@
 !!!!!Important!!!!!
 
-If want to use this Yt_ downloader make sure to install a Python version on your Pc
-In the folder Python you will find  a download link for Python 3.7
+If want to use this Yt_ downloader make sure to install a Python version on your device
+In the folder Python you will find  a download link for Python 3.9
 After u installed Python write "pip install pytube" in your command promt
 
 
