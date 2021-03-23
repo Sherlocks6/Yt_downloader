@@ -6,12 +6,13 @@ title yt_mp3
 cls
 
 
-start C:\Users\Memilo\Desktop\Downloader_ver.1\source\example_mp3.txt
+cd source
+start example_mp3
 cls
 
 
 
-"C:\Users\Memilo\AppData\Local\Programs\Python\Python37\python.exe" "C:\Users\Memilo\Desktop\Downloader_ver.1\source\yt_downloader_mp3.py"
+python yt_downloader_mp3.py
 cls
 
 taskkill /IM notepad.exe /f
