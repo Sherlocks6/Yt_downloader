@@ -7,7 +7,7 @@ cls
 
 
 cd source
-start example_mp3
+start example_mp3.txt
 cls
 
 
