@@ -8,7 +8,7 @@ After u installed Python write "pip install pytube" in your command promt
 
 
 
-If u want to use this Yt_downloader you have to choose between a mp3 and a mp4 Download
+If u want to use this Yt_downloader you have to choose between a mp3 and a mp4 of a single video or a playlist Download
 
 You will see 1 file in this folder:
 				Start_Yt_downloader.bat
@@ -21,7 +21,9 @@ Make sure to copy your Yt_link before runing one of these files
 
 (Save your files)
 
-In this folder there are to folders named:
+In the folder downloads there are four folders named:
 					   Videos
 					   Audios
+					   playlists_mp3
+					   playlists_mp4
 If you follow the instructions you will find your downloads there
